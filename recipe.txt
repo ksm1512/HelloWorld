@@ -2,4 +2,3 @@ kheer
 pasta
 maggi
 pizza
-pav-bhaji
